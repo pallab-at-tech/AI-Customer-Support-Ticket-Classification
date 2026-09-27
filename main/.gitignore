@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+.env
+
+.ipynb_checkpoints/
+
+model/*.pkl
+model/test_predictions.csv
